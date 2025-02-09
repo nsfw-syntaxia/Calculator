@@ -1,4 +1,4 @@
-﻿namespace Calculator_Dolera
+﻿namespace Calculator
 {
     partial class Calculator
     {

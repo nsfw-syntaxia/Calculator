@@ -1,4 +1,4 @@
-namespace Calculator_Dolera
+namespace Calculator
 {
     internal static class Program
     {

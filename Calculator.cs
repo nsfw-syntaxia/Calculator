@@ -1,6 +1,7 @@
 ﻿using System;
+using System.Windows.Forms;
 
-namespace Calculator_Dolera
+namespace Calculator
 {
     public partial class Calculator : Form
     {
